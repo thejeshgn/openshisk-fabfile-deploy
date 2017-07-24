@@ -1,1 +1,1 @@
-# openshisk-fabfile-deploy
+# openwhisk-fabfile-deploy
